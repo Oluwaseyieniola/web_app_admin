@@ -22,7 +22,7 @@ A new Flutter project.
  "password" : "test123"
 
 }
-
+```
 ![Screenshot (934)](https://github.com/Oluwaseyieniola/web_app_admin/assets/80404459/5f489770-e610-4d2c-b423-e89c038a3492)
 
 
