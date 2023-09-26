@@ -26,5 +26,5 @@ A new Flutter project.
 
 
 
-![Screenshot (934)](https://github.com/Oluwaseyieniola/web_app_admin/assets/80404459/61392379-f12a-4d58-b157-cb046d6a8dea)
+
 
