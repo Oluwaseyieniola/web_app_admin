@@ -4,13 +4,25 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## A Flutter web admin application for monitoring the transactions of users on a mobile banking app and performing all necessary admin roles like
+1. Create Users
+2. Delete Users
+3. Monitor User roles
+4. Send Push notifications to Users
+5. Create and Delete an Admin
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Below contain some test email and passowrds you can make use of
+```
+{
+ "email" : "evanmusktest@gmail.com"
+ "password" : "test123"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ "email": "rhodesmail@gmail.com"
+ "password" : "test123"
+
+}
+
+
+
+
