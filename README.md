@@ -32,7 +32,7 @@ A new Flutter project.
 ## This project is actively running on a Node Js Server credits to [adedoyin](https://github.com/adedayoniyi/Pay-Mobile-Web-Admin#if-you-choose-to-run-it-on-your-own-server-visit-the-pay-mobile-server-repo)
 *You can also visit the page for if you wish to run the web app on your own server*
 
-### Maasive help from adedoyin's repo [Repo](https://github.com/adedayoniyi/Pay-Mobile-Web-Admin#if-you-choose-to-run-it-on-your-own-server-visit-the-pay-mobile-server-repo)
+### Maasive help from adedoyin's [Repo](https://github.com/adedayoniyi/Pay-Mobile-Web-Admin#if-you-choose-to-run-it-on-your-own-server-visit-the-pay-mobile-server-repo)
 
 ## Projetc will be deployed to vercel
 
